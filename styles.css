@@ -24,7 +24,8 @@ p {
 }
 img {
     margin-top: 20px;
-    width: 100%;
+    margin-left: 10px;
+    width: 95%;
 }
 @media only screen and (min-width: 768px) {
     h1 {
